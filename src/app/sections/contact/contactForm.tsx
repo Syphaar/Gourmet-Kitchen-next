@@ -11,7 +11,8 @@ export default function ContactForm() {
     <main className="bg-white">
       <section className="py-12 max-w-3xl mx-auto px-5 sm:px-7 lg:px-9 md:py-14 xl:py-16">
         <h2 className="text-4xl font-serif font-bold text-center mb-6">
-          Send Us a Message
+          Send Us
+          <span className="text-[#C9A227]"> A Message </span>
         </h2>
         <form action="https://formsubmit.co/sifonemmanuel1000@gmail.com" method="POST"
           onSubmit={handleSubmit} className="space-y-6"
