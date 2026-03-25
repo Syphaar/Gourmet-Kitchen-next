@@ -41,7 +41,7 @@ const featuredMenuItems = [
                         Featured
                         <span className="text-[#C9A227]"> Menu </span>
                     </h2>
-                    <p className="mt-2 text-lg max-w-2xl mx-auto sm:max-w-lg">
+                    <p className="mt-2 max-w-2xl mx-auto sm:max-w-lg">
                           Enjoy our chef selected dishes, prepared to make every meal feel special.
                     </p>
                 </div>

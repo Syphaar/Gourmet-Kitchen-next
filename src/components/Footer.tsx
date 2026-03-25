@@ -28,7 +28,7 @@ export default function Footer() {
         <div className="">
             <div className="flex flex-col items-center md:items-start space-y-4">
                 <h2 className="text-2xl font-bold text-[#C9A227]">Gourmet kitchen</h2>
-                <p className="text-sm text-gray-300 text-center md:text-left">
+                <p className="text-gray-300 text-center md:text-left">
                     Gourmet Kitchen brings exceptional dining experiences with fresh flavors, a welcoming atmosphere, attentive service, and a touch of refined luxury you’ll remember long after your visit.
                 </p>
             </div>
@@ -62,7 +62,7 @@ export default function Footer() {
             </div>
 
             <div className="flex flex-col items-center space-y-7 md:items-start">
-                <div className="flex flex-col space-y-2 text-sm">
+                <div className="flex flex-col space-y-2">
                     <h3 className="text-lg font-semibold text-center md:text-start">Contact & Info</h3>
                     <p className="flex items-center space-x-2">
                         <HiOutlineClock size={18} className="text-[#C9A227]" />

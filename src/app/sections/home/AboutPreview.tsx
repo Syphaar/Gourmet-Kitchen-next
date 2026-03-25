@@ -20,7 +20,7 @@ export default function AboutPreviewLuxury() {
             fill className="object-cover object-center"
           />
           {/* Dark overlay */}
-          <div className="absolute inset-0 bg-black/40 rounded-3xl"></div>
+          <div className="absolute inset-0 bg-black/40 rounded-xl md:rounded-3xl"></div>
         </div>
 
         {/* Text Column */}
